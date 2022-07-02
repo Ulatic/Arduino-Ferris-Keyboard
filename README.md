@@ -8,4 +8,4 @@ So here is my code for it. I have to admit, the FSM stuff I found somewere onlin
 Choose Arduino Leonardo for uploading in the Arduino IDE.
 Have Fun
 
-![IMG_20220702_040219](https://user-images.githubusercontent.com/108585802/177009463-5d476c80-67e8-481a-81c2-228d87a5e58a.jpg)
+![IMG_20220702_040219 - Kopie](https://user-images.githubusercontent.com/108585802/177009647-a6fd71f9-09b7-4b18-9cdb-e16390e64aae.jpg)
